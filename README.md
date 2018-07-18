@@ -1,5 +1,5 @@
 # steemauto
-CurationTrail.com is forked using steemauto.com - Curation Trail, Fanbase, Scheduled Posts, ... for Steemit.com Users.
+https://CurationTrail.com is forked using steemauto.com - Curation Trail, Fanbase, Scheduled Posts, ... for Steemit.com Users.
 check @steemauto on steemit.com for more information about this project.
 
 ## Development
